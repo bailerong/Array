@@ -1,7 +1,6 @@
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
-
 /*找出我们的数组中重复最多的元素
 * */
 /*
