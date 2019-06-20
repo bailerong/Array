@@ -17,7 +17,6 @@ public class MinMax {
         }
 
     }
-
     public static void main(String[] args) {
         int[] arr={1,7,9,0,11,3};
         GetMaxAndMin(arr);
