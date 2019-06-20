@@ -18,7 +18,6 @@ public class shift_k {
         reserve(a,0,n-k-1);//逆置我们的123456
         reserve(a,0,n-1);//全部逆置
     }
-
     public static void main(String[] args) {
         int a[]={1,2,3,4,5,6,7,8};
         shift_k(a,2);
