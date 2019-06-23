@@ -35,7 +35,6 @@ public static int findMostFrequentIntArray(int[] a){
     }
     return result;
 }
-
     public static void main(String[] args) {
         int array[]={2,3,4,4,5,5,5,5,5,6,7};
         System.out.println(findMostFrequentIntArray(array));
