@@ -14,3 +14,5 @@ public class getKMin {
         }
     }
 }
+//我们找到第K个最小的数
+//挺实用的
