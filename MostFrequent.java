@@ -6,6 +6,7 @@ import java.util.Map;
 /*
 * 我们的类集对于我们来说是一个非常非常使用的工具，我们一定要能够熟练的应用它*/
 public class MostFrequent {
+
 public static int findMostFrequentIntArray(int[] a){
     int result=0;
     int size=a.length;
