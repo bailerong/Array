@@ -1,5 +1,6 @@
 /*这是我们的一个关于如何将我们的代数向右移动K个单位的代码
 * */
+
 public class shift_k {
     /*这是我们的一个逆置数组*/
     public static void reserve(int a[],int begin,int end){
